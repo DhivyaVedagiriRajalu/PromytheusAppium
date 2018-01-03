@@ -1,0 +1,15 @@
+<suite name="Suite" >
+    <test name="Smoke Test">
+        <classes>
+            <class name="TestMobileApplication"></class>
+            <class name="TestMobileTalentsHome"></class>
+        </classes>
+    </test>
+</suite>
+
+
+
+
+
+
+
